@@ -6,7 +6,7 @@
             "Gender": "mens",
             "Size": "8.5",
             "price": "$120.83",
-            "image": "@assets/nike.jpg"
+            "image": "@/assets/nike.jpg"
         },
         {
             "id": 1,
