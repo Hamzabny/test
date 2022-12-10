@@ -14,7 +14,7 @@
             "Gender": "Gender: mens",
             "Size": "Size: 10.5 New 1 95",
             "price": "Price: $126.89",
-            "image": "/images/test-image-02.jpg"
+            "image": "https://user-images.githubusercontent.com/89034867/206848174-f2d1ef70-0dbc-41a0-af88-d65dbb7fc7bf.jpg"
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "Gender": "Gender: mens",
             "Size": "Size: 9.2",
             "price": "Price: $181.70",
-            "image": "/images/test-image-03.jpg"
+            "image": "https://user-images.githubusercontent.com/89034867/206848354-0d63e9c4-0c79-4a00-874f-20635b00ecb4.jpg"
         }
         ]
         }
