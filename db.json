@@ -6,7 +6,7 @@
             "Gender": "Gender: mens",
             "Size": "Size: 8.5",
             "price": "Price: $120.83",
-            "image": "../assets/nike.jpg"
+            "image": "https://user-images.githubusercontent.com/89034867/206846628-91a97b88-17b3-42b6-836c-b68453363cf7.jpg"
         },
         {
             "id": 1,
